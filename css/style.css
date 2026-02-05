@@ -63,3 +63,10 @@ form button {
 form button:hover {
     background-color: #555555;
 }
+.dark {
+  background-color: #111;
+  color: white;
+}
+.dark header, .dark footer {
+  background-color: #000;
+} 
